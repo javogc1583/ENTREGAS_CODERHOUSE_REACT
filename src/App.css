@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/*Adcionales*/
+.card-body {
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}

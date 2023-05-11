@@ -1,0 +1,77 @@
+[
+    {"id":"1", "title":"Playera adidas Real Madrid Pre-Match", "price":1500, "category":"Ropa", "stock":40, 
+    "pictureUrl": "https://www.innovasport.com/medias/playera-adidas-real-madrid-prematch-is-HA2578-1.jpg?context=bWFzdGVyfGltYWdlc3wxMTk3ODJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGJhL2gzYS8xMDk3OTc5NDE1NzU5OC5qcGd8NjI3NjQyNzgwZjA5ZmJmYjVkZjIyMDgzMzY1ZTdhMTEwYTYzMTAxNTA1MzYzYzVjNTg4YmIxMzQwMzYzMzdkYg",
+    "description":"Comienza todos tus entrenamientos de fútbol con la Playera adidas Real Madrid Pre-Match para hombres. Es la misma que usará el cuadro merengue en la campaña 22/23. Saldrán al campo a calentar en búsqueda de la 15va. Champions League. Te encantará y será tu preferida"},
+
+    {"id":"2", "title":"Short adidas Real Madrid Visita 22/23", "price":1200, "category":"Ropa", "stock":30, 
+    "pictureUrl": "https://www.innovasport.com/medias/IS-H18494-1.jpg?context=bWFzdGVyfGltYWdlc3wxMTkwNzN8aW1hZ2UvanBlZ3xpbWFnZXMvaDBjL2hhMC8xMTE1ODk1MDM0Njc4Mi5qcGd8MDljNWNjODExZjk3ZWNmNjlmYTM1NjEzNGFiYWFlNjZjM2VmODdhOGU1Y2E3NWMyMWJiYTZjNGI1N2FkMjVlNQ",
+    "description":"El Short adidas Real Madrid Visita 22/23 es parte de la nueva colección de la Casa Blanca, con esta prenda de la marca alemana tendrás una gran comodidad en la cancha y lo podrás combinar con cualquier jersey merengue que tengas en tu colección. "},
+
+    {"id":"3", "title":"Chamarra adidas Real Madrid DNA", "price":3000, "category":"Ropa", "stock":20, 
+    "pictureUrl": "https://www.innovasport.com/medias/IS-HD1324-1.jpg?context=bWFzdGVyfGltYWdlc3w5OTE4OHxpbWFnZS9qcGVnfGltYWdlcy9oMDEvaDQ4LzExMDYzMTAwNzM1NTE4LmpwZ3w3MGIzMzYwMGFlNjc3YjRjOGU5ZGE5ZTBlNzFlMjI3YTUzNjc1OTU0NGU2ZGNkZTJlMmE0Y2E1ZGVlNTVmNTg5",
+    "description":"Lleva los colores del equipo de tus amores a todas partes con la Chamarra adidas Real Madrid DNA, esta prenda te brindará un gran estilo y cobertura cuando la temperatura sea baja en la cancha o ciudad."},
+
+    {"id":"4", "title":"Playera Puma Manchester City ftblHeritage", "price":900, "category":"Ropa", "stock":100, 
+    "pictureUrl": "https://www.innovasport.com/medias/IS-769495-02-1.jpg?context=bWFzdGVyfGltYWdlc3w2MDU1NnxpbWFnZS9qcGVnfGltYWdlcy9oYzEvaDRkLzExNTQ3NDM5NjkzODU0LmpwZ3xiNzFkNjUwZTRkMWQ2MWMzOTI3ZjBiNTdiNGJiOWQ2M2JiMzZmM2U0MTE0ODIyZmQ1ODY1NDNhNzNlOTQ3YzA5",
+    "description":"La Playera Puma Manchester City ftblHeritage no puede faltar en tu colección, con esta prenda lucirás genial en los días de partido de la Premier o Champions League."},
+
+    {"id":"5", "title":"Chamarra Puma Manchester CityftblArchive", "price":2500, "category":"Ropa", "stock":15, 
+    "pictureUrl": "https://www.innovasport.com/medias/IS-769496-01-1.jpg?context=bWFzdGVyfGltYWdlc3w4Nzg0M3xpbWFnZS9qcGVnfGltYWdlcy9oYmEvaGEyLzExNTQ3NDA5NTQ3Mjk0LmpwZ3xmNjA3NmNkYzgwMDFiNTQ1OTdmNjc2M2IwOWI0NGY1ZjhmYWM3YTE2MmU5NjNmODY1N2JjNzI0M2E5OGEzMTAx", 
+    "description":"Porta la Chamarra Puma Manchester CityftblArchive en los días de partido de Premier o Champions League, con esta prenda le mostrarás a todos tu pasión por el equipo dirigido por Pep Guardiola. "},
+
+
+
+
+
+
+
+    {"id":"6", "title":"Zapato Adidas Predator", "price":2600, "category":"Zapatos", "stock":50,
+    "pictureUrl": "https://www.innovasport.com/medias/tenis-de-futbol-adidas-predator-accuracy-fg-is-GW4560-1.jpg?context=bWFzdGVyfGltYWdlc3wxMDgyNTF8aW1hZ2UvanBlZ3xpbWFnZXMvaDc0L2hlNS8xMTY5OTkzMTY0MzkzNC5qcGd8ODQwMmY5ZmNlNTdjYjRlMmZhYjg3YjBiMmMzMWE3OTk2MDkwMGU1NWVlMTAyOTI4ZWM4YzA5OThjZGVkMTY3YQ", 
+    "description":"Tendrás una total confianza en la cancha al usar los Tenis de Fútbol adidas Predator Accuracy+ FG, este par cuenta con características innovadoras que te fascinarán. "},
+
+    {"id":"7", "title":"Zapato Nike Zoom Mercurial Vapor 15 Elite XXV FG", "price":1700, "category":"Zapatos", "stock":20,
+    "pictureUrl": "https://www.innovasport.com/medias/tenis-de-futbol-nike-zoom-mercurial-vapor-15-elite-xxv-fg-is-FB8395-060-1.jpg?context=bWFzdGVyfGltYWdlc3wxMTg5OTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDliL2g5Ni8xMTY5MzYzMzIwODM1MC5qcGd8ODMwN2RkN2VmNzVmNmUzN2U5MjE2YmExMTYxZTUzMWU3Y2RkYzZlY2RhN2VkM2YxMDEzZWZkZDgyMTBjMTM2Yw",
+    "description":"Se parte del festejo de estos históricos tachones usando los Tenis de Fútbol Nike Zoom Mercurial Vapor 15 Elite XXV FG, este diseño destaca gracias al gráfico Volt MXXV y a sus colores que están llenos de energía. "},
+
+    {"id":"8", "title":"Zapato Zoom Mercurial Vapor 15 Academy MG", "price":2100, "category":"Zapatos", "stock":65,
+    "pictureUrl": "https://www.innovasport.com/medias/tenis-de-futbol-nike-zoom-mercurial-vapor-15-academy-mg-is-DJ5631-605-1.jpg?context=bWFzdGVyfGltYWdlc3w5NDY3MnxpbWFnZS9qcGVnfGltYWdlcy9oNzMvaDlkLzExNjczODkyMTkyMjg2LmpwZ3wxNTdjMTFkYjZiOGU5MjVmYTY2YWQ5NjU2Njg1ODUzYTg5YTFhOTY0MWZjOTMzOTY4NmE2OGQxMGJiODI5YWIw", 
+    "description":"La nueva colección de la marca americana presenta los Tenis de Fútbol Nike Zoom Mercurial Vapor 15 Academy MG, estos tachones se convertirán en tus favoritos; combinarán de manera perfecta con el jersey de tu equipo. "},
+
+    {"id":"9", "title":"Zapato Puma Ultimate DNA FG/AG", "price":1100, "category":"Zapatos", "stock":14,
+    "pictureUrl": "https://www.innovasport.com/medias/tenis-de-futbol-puma-ultimate-dna-fgag-is-107208-01-1.jpg?context=bWFzdGVyfGltYWdlc3wxMjgyODB8aW1hZ2UvanBlZ3xpbWFnZXMvaGEzL2g2Zi8xMTY2MDg5MTU1MzgyMi5qcGd8NDRiMWI3ZWM5MzJmYWYyMTMyZDA0YmI4ZDNiODg2MDBmYjBhODczZDUxYjY3ZTM1MDFkMWFmNDNjM2FiMTIyYw",
+    "description":"Domina la pelota con los Tenis de Fútbol Puma Ultimate DNA FG/AG, este par se encargará de mantener la intensidad al tope en cada jugada. Sin duda alguna serán tus favoritos. "},
+
+    {"id":"10", "title":"Zapato Nike Phantom GX Academy MG", "price":1750, "category":"Zapatos", "stock":88,
+    "pictureUrl": "https://www.innovasport.com/medias/tenis-de-futbol-nike-phantom-gx-academy-mg-is-DD9473-446-1.jpg?context=bWFzdGVyfGltYWdlc3w5OTMxMHxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGU0LzExNDgwNDI4MDE5NzQyLmpwZ3xiNjc1ZWE0MzkwN2NhNzczNWZkMzlkM2YxYThiZDkyODE3MDNkZmQ4OTg4MzdlMjg2NzJkZmEzZjk2Zjc3ZDQ3",
+    "description":"Practica el deporte más hermoso del mundo usando los Tenis de Fútbol Nike Phantom GX Academy MG, este par te ayudará a encontrar tu mejor versión en el terreno de juego. "},
+
+
+
+
+
+
+
+
+    {"id":"11", "title":"Gorra New Era 9Forty Strapback Manchester United FC Poly", "price":600, "category":"Accesorios", "stock":5,
+    "pictureUrl": "https://www.innovasport.com/medias/IS-60333686-1.jpg?context=bWFzdGVyfGltYWdlc3w4MjU1M3xpbWFnZS9qcGVnfGltYWdlcy9oNmYvaDJlLzExNTk5ODY1NDEzNjYyLmpwZ3xlN2M0YWY0MmZjZDc2YmVkNjM2ZmJjN2I4NDFkN2MwMWZlM2I1MTA3ZmNkN2ZhOTAzYjkxZjRmNGJkYWI5NWMz",
+    "description":"Apoya con la Gorra para Fútbol New Era 9Forty Manchester United FC Poly de Hombre, este accesorio es parte de la nueva colección de los Red Devils. "},
+
+    {"id":"12", "title":"Balón de Fútbol Puma Orbita 6 MS", "price":350, "category":"Accesorios", "stock":45,
+    "pictureUrl": "https://www.innovasport.com/medias/balon-de-futbol-puma-orbita-6-ms-is-083787-07-1.jpg?context=bWFzdGVyfGltYWdlc3wxOTk0MTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDgzL2g1OS8xMTcyMzY3NTMwMzk2Ni5qcGd8Y2VmMjY0YzA0YTZjZWNhMTg2Yjc1M2Y5MGZmOTBkOTE5ZmU1MmY2NDEwYmUzMzQ5MjgxYTJlN2JkZDU5ZDZiNw",
+    "description":"Encuentra tu mejor versión en el terreno de juego mientras ruede el Balón de Fútbol Puma Orbita 6 MS, con este accesorio de la marca alemana disfrutarás al máximo cada partido y entrenamiento. Su tamaño número 5 es ideal para canchas de fútbol 7. "},
+
+    {"id":"13", "title":"Espinilleras adidas Tiro League", "price":250, "category":"Accesorios", "stock":12,
+    "pictureUrl": "https://www.innovasport.com/medias/espinilleras-adidas-tiro-league-is-HN5606-1.jpg?context=bWFzdGVyfGltYWdlc3wxNDcwOTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDE3L2hiOC8xMTcxNjUxODA4NDYzOC5qcGd8ZDRiYjdlNzY0MGNjZGE2NjU1NGJkY2ZhZDA1YjI3NmNhYzhjZmM4NWI0MjFkMmU1ZGYwYjY4NTg5YzhmNjVmNw",
+    "description":"Tienes que estar protegido en tus encuentros más intensos, obtén una total seguridad al disputar cada jugada con las Espinilleras adidas Tiro League, combinarán de manera perfecta con tu jersey y tachones. "},
+
+    {"id":"14", "title":"Calcetas adidas Alemania Local Mundial 2022", "price":180, "category":"Accesorios", "stock":200,
+    "pictureUrl": "https://www.innovasport.com/medias/calcetas-adidas-alemania-local-mundial-2022-is-HF1700-1.jpg?context=bWFzdGVyfGltYWdlc3w3OTMyN3xpbWFnZS9qcGVnfGltYWdlcy9oNTkvaDAzLzExMTkxMTgzMzc2NDE0LmpwZ3w4ZDc1OWM4YTg3YTA2MjZmODZhN2VmMTBlN2Y4ZDhlYTUxMzk5ZWU1OThjNzMxNWY4ZmVlYzMxNzBkMTQ4OGU3",
+    "description":"Practica el deporte que tanto te apasiona con un gran estilo y comodidad portando las Calcetas adidas Alemania Local Mundial 2022, estas son parte de la nueva colección de la escuadra germana en cara a la Copa del Mundo que será celebrada en Qatar. "},
+
+    {"id":"15", "title":"Guantes Nike Goalkeeper Match", "price":1200, "category":"Accesorios", "stock":6,
+    "pictureUrl": "https://www.innovasport.com/medias/guantes-nike-goalkeeper-match-is-CQ7799-015-1.jpg?context=bWFzdGVyfGltYWdlc3w5MjY1MXxpbWFnZS9qcGVnfGltYWdlcy9oMDgvaGE2LzExMzQ0NDI2MzM2Mjg2LmpwZ3xjYjFmMjg4MmQwYzllNzdjYjFiZTg4OGQzM2Q0OGM0M2RlYjBjODIzZDUzODg2NTE0YWI5NDBlY2Q1Yjc2YzI5",
+    "description":"Con los Guantes Nike Goalkeeper Match te convertirás en un jugador importante, este par te brindará la seguridad que necesitas en la cancha para mantener tu arco en cero. Lucirás genial al combinarlos con cualquier jersey que ya tengas en tu armario. "}
+
+
+    
+]

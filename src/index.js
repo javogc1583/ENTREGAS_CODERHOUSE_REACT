@@ -1,15 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import './index.css';
+import App from './App';
+
+
+// Inicia APP
 const root = ReactDOM.createRoot(document.getElementById('root'));
+/* Le quitamos el modo StrictMode para que no ejecute 2 veces las funciones 
+  root.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
+*/
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <App /> 
 );
 
 // If you want to start measuring performance in your app, pass a function

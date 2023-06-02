@@ -20,8 +20,7 @@ export const NavBar = () => {
             .then(result => {
                 const categories = result.map(item => item.category)
                 const uniqueCateogries =  new Set(categories)
-                /*console.log(uniqueCateogries)*/
-                setItemsMenu([ ... uniqueCateogries].sort())
+                setItemsMenu([...uniqueCateogries].sort())
             })
             .catch(error => console.log(error))
     }, [])
